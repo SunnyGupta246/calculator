@@ -18,5 +18,11 @@ html , body{
 }
 .rows{
     margin:2px;
-    padding: 6px 25px;
+    padding: 6px 78px;
+    
+}
+.calculator{
+    background-color: rgb(61, 61, 61);
+    border-radius: 8px;
+    padding: 10px;
 }
